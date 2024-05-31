@@ -1,7 +1,8 @@
-# 💫 About Me:
+# Intro
 Hi there 👋 <br>
 I'm Swaraj and I am currently focused on India-specific ML Applications! I want to contribute to novel ML work someday with large-scale real-world impact. <br>
 <br>
+# 💫 About Me:
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
 👨‍💻 Passionate ML Developer building for the future<br>
 🔍 Currently focused on Speech Synthesis using NVIDIA's Riva and NeMo<br>
