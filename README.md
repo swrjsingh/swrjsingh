@@ -5,7 +5,7 @@ I'm Swaraj and I am currently focused on India-specific ML Applications! I want 
 👨‍💻 Passionate ML Developer building for the future<br>
 🔍 Currently focused on Speech Synthesis using NVIDIA's Riva and NeMo<br>
 ⚡ Learning Reasoning within LLMs and Agents, all about ORCA, ReAct and BAGEL<br>
-🌟 On the side, I am building a SOTA reasoning-based LLM app to solve JEE Advance Problems. It shall eventually serve as a doubt-solving teacher-like app. <br>
+🌟 I am building a SOTA reasoning-based LLM app to solve doubts with locally generated video-based solutions to any (JEE Advanced) problem. <br>
 💡 Eager to contribute to Foundational ML work in India! Looking for opportunities!<br>
 ✨ I also actively learn Finance and Keyboard in my free time!<be>
 
