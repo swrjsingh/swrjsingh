@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+I'm Swaraj, I enjoy learning about Tech and am currently focused on India-specific ML Applications!
+# 💫 About Me:
+📚 Studying Computer Science @ NITK-Surathkal, India<br>
+👨‍💻 Passionate ML Developer building for the future<br>
+🔍 Currently exploring Speech Synthesis using Riva and NeMo, 
+🌟 On the side I'm working on Evaluating LLMs for JEE Advance and eventually creating an Application to solve any JEE Advance Problems <br>
+🤖 Interested in getting deep into ML and I also explore Finance on the side!<br>
+💡 Eager to contribute to Foundational ML work in India!<br>
 <!--
 **swrjsingh/swrjsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
