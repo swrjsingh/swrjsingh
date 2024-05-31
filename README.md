@@ -4,7 +4,7 @@ I'm Swaraj and I am currently focused on India-specific ML Applications! I hope 
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
 👨‍💻 Passionate ML Developer building for the future<br>
 🔍 Currently focused on Speech Synthesis using Riva and NeMo<br>
-🌟 On the side, I spend time learning about reasoning within LLMs. Currently building an app that can solve JEE Advance Problems <br>
+🌟 On the side, I spend time learning about reasoning within LLMs. Currently building a SOTA reasoning-based LLM app that can solve JEE Advance Problems <br>
 💡 Eager to contribute to Foundational ML work in India!<br>
 ✨ I also actively learn Finance and Keyboard in my free-time!<be>
 
