@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there 👋 <br>
 I'm Swaraj and I am currently focused on India-specific ML Applications! I hope to contribute to novel ML work someday with large-scale real world impact.
 # 💫 About Me:
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
