@@ -1,11 +1,11 @@
 # Intro
 Hi there 👋 <br>
-I'm Swaraj and I am currently focused on India-specific ML Applications! I want to contribute to novel ML work someday with large-scale real-world impact. <br>
+I'm Swaraj and I am currently focused on India-specific ML Applications! I want to contribute to novel ML work with large-scale real-world impact, solving problems at scale.<br>
 <br>
 # 💫 About Me:
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
 👨‍💻 Passionate ML Developer building for the future<br>
-🌟 Building a SOTA reasoning-based LLM app fine-tuned to solve doubts with generated video and text-based solutions to any (JEE Advanced) problem in multiple languages. <br>
+🌟 Building a SOTA reasoning-based LLM app fine-tuned to solve doubts with generated video and text-based solutions to any (JEE Advanced) problem in all 22 Indian languages. <br>
 🔍 Currently focused on Speech Synthesis using NVIDIA's Riva, NeMo, Tacotron, and building LLM Pipelines using WandB<br>
 💡 Eager to contribute to Foundational ML work in India! Looking for opportunities!<br>
 ✨ I also actively learn Finance and Keyboard in my free time!<be>
