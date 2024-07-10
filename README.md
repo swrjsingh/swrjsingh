@@ -5,9 +5,8 @@ I'm Swaraj and I am currently focused on India-specific ML Applications! I want 
 # 💫 About Me:
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
 👨‍💻 Passionate ML Developer building for the future<br>
-🔍 Currently exploring available STT models, and learning Speech Synthesis using NVIDIA's Riva, NeMo, Tacotron 2<br>
 💡 Eager to contribute to Foundational ML work in India! Looking for opportunities!<br>
-✨ I also actively learn Finance and Keyboard in my free time!<be>
+✨ I also enjoy solving CP problems in my free time!<be>
 
 
 ## 🌐 Socials:
