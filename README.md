@@ -1,11 +1,10 @@
 # Intro
 Hi there 👋 <br>
-I'm Swaraj and I am currently focused on India-specific ML Applications! I want to contribute to novel ML work with large-scale real-world impact, solving problems at scale.<br>
+I'm Swaraj and I am currently focused on ML! I want to contribute to novel ML work eventually.<br>
 <br>
 # 💫 About Me:
 📚 Studying Computer Science @ NITK-Surathkal, India<br>
-👨‍💻 Passionate ML Developer building for the future<br>
-💡 Eager to contribute to Foundational ML work in India! Looking for opportunities!<br>
+💡 Eager to contribute to Foundational ML work! Looking for opportunities!<br>
 ✨ I also enjoy solving CP problems in my free time!<be>
 
 
