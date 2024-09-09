@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying Computer Science @ NITK-Surathkal, India<br>Eager to contribute to Foundational ML work! Looking for opportunities!<br>I also enjoy solving CP problems in my free time!
+Studying Computer Science @ NITK-Surathkal, India<br>Eager to contribute to Foundational ML work! Looking for opportunities!<br>I also enjoy solving CP problems in my free time!<br>WEC NITK Intelligence SIG | IEEE Computer Society | IEEE CIS
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swrjsingh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
