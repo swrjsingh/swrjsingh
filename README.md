@@ -1,9 +1,13 @@
 # 💫 About Me:
-Studying Computer Science @ NITK-Surathkal, India<br>Building the future with ML<br>I also enjoy solving CP problems in my free time!<br>WEC NITK Intelligence SIG | IEEE Computer Society | IEEE CIS
+Computer Science @ NITK-Surathkal, India<br>WEC NITK Intelligence SIG | IEEE Computer Society | IEEE CIS
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swrjsingh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swrjsingh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swrjsingh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Hi, I'm Swaraj. I code a lot, experiment a lot, and read a lot of papers : ) I am currently working on interesting problems on compositionality of post training interventions. If I'm not experimenting with neural networks, you'll find me immersed in some novel side project I wish existed, hacking away at it with intense focus! I also enjoy Competitive Programming and dive into it whenever I find time : )
+### 🔬 My research interests
+- 🗣️ Model diffing and composition of post training interventions
+- 👁️ Monitoring CoT in reasoning models
+- 🦜 Trying to dissect LLMs and intelligence itself : )
+
+I also run a blog with technical deep dives (link soon)
+
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
