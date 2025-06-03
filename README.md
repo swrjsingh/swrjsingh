@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science @ NITK-Surathkal, India<br>WEC NITK Intelligence SIG | IEEE Computer Society | IEEE CIS
+Research Intern @ Max Planck Institute of Intelligent Systems<br>Computer Science @ NITK-Surathkal, India<br>IEEE Secretary, CIS | IEEE CompSoc | WEC NITK Intelligence SIG
 
 Hi, I'm Swaraj. I code a lot, experiment a lot, and read a lot of papers : ) I am currently working on interesting problems on compositionality of post training interventions. If I'm not experimenting with neural networks, you'll find me immersed in some novel side project I wish existed, hacking away at it with intense focus! I also enjoy Competitive Programming and dive into it whenever I find time : )
 
